@@ -15,16 +15,6 @@ Open Interface
 <div align="center">
 <h4>Full Autopilot for All Computers Using LLMs</h4>
 
-  [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/AmberSahdev/Open-Interface?tab=readme-ov-file#install)
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/AmberSahdev/Open-Interface?tab=readme-ov-file#install)
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/AmberSahdev/Open-Interface?tab=readme-ov-file#install)
-  <br>
-  [![Github All Releases](https://img.shields.io/github/downloads/AmberSahdev/Open-Interface/total.svg)]((https://github.com/AmberSahdev/Open-Interface/releases/latest))
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AmberSahdev/Open-Interface)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/AmberSahdev/Open-Interface)
-  ![GitHub](https://img.shields.io/github/license/AmberSahdev/Open-Interface) 
-  [![GitHub Latest Release)](https://img.shields.io/github/v/release/AmberSahdev/Open-Interface)](https://github.com/AmberSahdev/Open-Interface/releases/latest)
-
 </div>
 
 ### <ins>Demo</ins> 💻
@@ -212,6 +202,3 @@ Open Interface
 +----------------------------------------------------+
 ```
 
-	<!-- <br>
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/AmberSahdev?style=flat-square">-->
-</div>
