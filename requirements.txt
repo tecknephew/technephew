@@ -27,6 +27,7 @@ pyobjc-core==10.1; sys_platform == 'darwin'
 pyobjc-framework-Cocoa==10.1; sys_platform == 'darwin'
 pyobjc-framework-Quartz==10.1; sys_platform == 'darwin'
 pyperclip==1.8.2
+PyQt5==5.15.11
 PyRect==0.2.0
 PyScreeze==0.1.30
 pytweening==1.0.7
@@ -38,3 +39,4 @@ tqdm==4.66.4
 ttkbootstrap==1.10.1
 typing_extensions==4.9.0
 urllib3==2.2.2
+
